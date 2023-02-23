@@ -10,9 +10,6 @@ import {
 import data from "../data/data";
 import Buttom from "./Buttom";
 
-const imageback = {
-  uri: "https://pm1.narvii.com/7807/33da173cc5275223020befda86b04ce0fa8c36c3r4-750-375_00.jpg",
-};
 
 const DataList = () => {
   return (
@@ -53,9 +50,7 @@ const styles = StyleSheet.create({
     paddingTop: 15,
     paddingBottom: 15,
     justifyContent: "center",
-    backgroundColor: "#e0ffff",
-    
-    
+    backgroundColor: "#e0ffffAA",
   },
 
   text: {
